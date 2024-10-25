@@ -1,5 +1,6 @@
 ## NotebookLM Experiment Results for University Evaluation
 Overview
+
 This repository documents experiments conducted to assess Google’s NotebookLM for potential use in educational settings. NotebookLM integrates language model capabilities to assist students through summarization, question answering, and content personalization.
 
 ## Capabilities Tested
@@ -11,10 +12,6 @@ Ans -- Here are some fundamental concepts of Data Science as described in the so
 ● Evaluating data-science results requires careful consideration of the context in which they will be used. For example, we must consider how the patterns extracted from data will be used and if they will lead to better decisions than some reasonable alternative.
 ● The relationship between the business problem and the analytics solution often can be decomposed into tractable subproblems via the framework of analyzing expected value. This involves breaking down the business problem into components corresponding to estimating probabilities and computing values.
 ● Information technology can be used to find informative data items from within a large body of data. This concept underlies techniques for statistical analysis, predictive modeling, and other data mining.
-● Entities that are similar with respect to known features or attributes often are similar with respect to unknown features or attributes. Computing similarity is one of the main tools of data science.
-● If you look too hard at a set of data, you will find something—but it might not generalize beyond the data you’re observing. This is referred to as “overfitting” a dataset.
-● To draw causal conclusions, one must pay very close attention to the presence of confounding factors, possibly unseen ones. All methods for drawing casual conclusions from interpreting the coefficients of regression models to randomized controlled experiments incorporate assumptions regarding the presence or absence of confounding factors.
-
 
 ## Content Personalization: Adapts responses based on individual learning needs.
 Experiment Details

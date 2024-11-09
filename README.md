@@ -1,4 +1,4 @@
-## NotebookLM Experiment Results for University Evaluation
+## Evaluation of Cloud Based Technology -- NotebookLM
 Overview
 
 This repository documents experiments conducted to assess Google’s NotebookLM for potential use in educational settings. NotebookLM integrates language model capabilities to assist students through summarization, question answering, and content personalization.

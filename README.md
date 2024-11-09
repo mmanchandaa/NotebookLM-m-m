@@ -6,7 +6,8 @@ This repository documents experiments conducted to assess Google’s NotebookLM 
 ## Capabilities Tested
 
 Question Answering: Responds to content-specific questions for active learning.
-Ques -- "tell me some fundamental concepts of Data Science"
+
+# Ques -- "tell me some fundamental concepts of Data Science"
 Ans -- Here are some fundamental concepts of Data Science as described in the sources:
 ● Extracting useful knowledge from data to solve business problems can be treated systematically by following a process with reasonably well-defined stages. For example, the Cross-Industry Standard Process for Data Mining (CRISP-DM) is one codification of this process.
 ● Evaluating data-science results requires careful consideration of the context in which they will be used. For example, we must consider how the patterns extracted from data will be used and if they will lead to better decisions than some reasonable alternative.
